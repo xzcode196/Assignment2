@@ -3,7 +3,7 @@ recipes = {
         "ingredients": {
             "bread": 2,  ## slice
             "ham": 4,  ## slice
-            "cheese": 4,  ## ounces
+            "cheese": 4,  ## ounces 
         },
         "cost": 1.75,
     },
@@ -29,4 +29,5 @@ resources = {
     "bread": 12,  ## slice
     "ham": 18,  ## slice
     "cheese": 24,  ## ounces
+
 }
